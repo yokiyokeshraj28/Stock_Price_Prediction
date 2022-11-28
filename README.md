@@ -69,7 +69,8 @@
   requests==2.28.1
   scikit-learn==1.1.1
   scipy==1.8.1
-  seaborn==0.11.2
+  Keras==3.7.2
+  Tensor Flow==2.11
   sklearn==0.0
   virtualenv==20.14.1
   virtualenv-clone==0.5.7
